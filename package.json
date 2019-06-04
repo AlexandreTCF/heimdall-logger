@@ -1,0 +1,7 @@
+{
+  "name": "heimdall-logger",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Alexandre CONTASSOT <alexandre.contassot@thechatbotfactory.com>",
+  "license": "MIT"
+}
